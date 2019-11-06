@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-enhance-maven-plugin-5.4.8.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-enhance-maven-plugin-5.4.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
